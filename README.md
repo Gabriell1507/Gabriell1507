@@ -9,5 +9,5 @@ Olá, sou o Gabriel Marcos!
 </div>
 
 
-[![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriell1507&show_icons=true&theme=radical)
+[![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriell1507&show_icons=true&theme=white)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriell1507&layout=compact)](https://github.com/Gabriell1507/github-readme-stats)
