@@ -1,6 +1,6 @@
 Olá, sou o Gabriel Marcos!
 ##
-[![Meu status no Github](https://github-readme-stats.vercel.app/api?username=Gabriell1507&show_icons=true&theme=white)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriell1507)](https://github.com/Gabriell1507/github-readme-stats)
 ![Meu status no Github](https://github-readme-stats.vercel.app/api?username=Gabriell1507&count_private=true)
