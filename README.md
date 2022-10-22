@@ -16,4 +16,4 @@ Olá, sou o Gabriel Marcos!
 
 
 
-![giphy (4)](https://user-images.githubusercontent.com/105975414/197314762-07f04d84-21a6-4b27-ab29-119517c88351.gif)
+
