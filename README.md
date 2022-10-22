@@ -10,9 +10,10 @@ Olá, sou o Gabriel Marcos!
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </div>
-  <img align="right" alt="Gif" height="150" style="border-radius:50px;" src="https://giphy.com/gifs/pxzVEdTkBosOALdpMw">
+
 </div>
 
 
 
 
+![giphy (4)](https://user-images.githubusercontent.com/105975414/197314762-07f04d84-21a6-4b27-ab29-119517c88351.gif)
