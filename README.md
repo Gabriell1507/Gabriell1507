@@ -2,8 +2,7 @@ Olá, sou o Gabriel Marcos!
 ##
 
 <div>
-https://github-readme-stats.vercel.app/api?username=Gabriell1507&show_icons=true&theme=radical)
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)</div>
 
   <div>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
