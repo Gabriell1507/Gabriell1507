@@ -2,7 +2,7 @@ Olá, sou o Gabriel Marcos!
 ##
 
 <div>
-![Meu status no Github](https://github-readme-stats.vercel.app/api?username=Gabriell1507&show_icons=true&theme=radical)/>
+![Meu status no Github](https://github-readme-stats.vercel.app/api?username=Gabriell1507&show_icons=true&theme=radical)
 </div>
 
   <div>
