@@ -1,7 +1,7 @@
 Olá, sou o Gabriel Marcos!
 ##
 
-![Meu status no Github](https://github-readme-stats.vercel.app/api?username=Gabriell1507&show_icons=true&theme=merko)
+![Meu status no Github](https://github-readme-stats.vercel.app/api?username=Gabriell1507&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriell1507&layout=compact&theme=merko)](https://github.com/Gabriell1507/github-readme-stats)
 
 
