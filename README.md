@@ -1,4 +1,4 @@
-Olá, sou o Gabriel Marcos!
+Olá, sou o Gabriel Marcos!<br>
 Estudante do curso de Análise e Desenvolvimento de Sistemas no IFPI - Campus Picos
 
 Tenho foco em desenvolvimento Front-End Web porém estou aberto a trabalhar com Back-End também
