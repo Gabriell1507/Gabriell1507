@@ -1,4 +1,7 @@
 Olá, sou o Gabriel Marcos!
+Estudante do curso de Análise e Desenvolvimento de Sistemas no IFPI - Campus Picos
+
+Tenho foco em desenvolvimento Front-End Web porém estou aberto a trabalhar com Back-End também
 ##
 
 ![Meu status no Github](https://github-readme-stats.vercel.app/api?username=Gabriell1507&show_icons=true&theme=react )
