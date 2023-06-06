@@ -3,8 +3,7 @@ Estudante do curso de Análise e Desenvolvimento de Sistemas no IFPI - Campus Pi
 Tenho foco em desenvolvimento Front-End Web porém estou aberto a trabalhar com Back-End também
 ##
 
-![Meu status no Github](https://github-readme-stats.vercel.app/api?username=Gabriell1507&show_icons=true&theme=react )
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriell1507&layout=compact&theme=react )](https://github.com/Gabriell1507/github-readme-stats)
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriell1507&show_icons=true&theme=radical)
 
   <div>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
