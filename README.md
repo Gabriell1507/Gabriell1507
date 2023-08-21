@@ -6,10 +6,10 @@ Tenho foco em desenvolvimento Front-End Web porém estou aberto a trabalhar com 
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriell1507&show_icons=true&theme=radical)
 
 
-  <div>
+
  ![ezgif-1-9993272398](https://github.com/Gabriell1507/Gabriell1507/assets/105975414/4ee60514-8965-4f80-b34d-6d855c8c1996)
 
-  </div>
+
   
 
 
