@@ -7,9 +7,8 @@ Tenho foco em desenvolvimento Front-End Web porém estou aberto a trabalhar com 
 
 
   <div>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg">
+ ![ezgif-1-9993272398](https://github.com/Gabriell1507/Gabriell1507/assets/105975414/4ee60514-8965-4f80-b34d-6d855c8c1996)
+
   </div>
   
 
